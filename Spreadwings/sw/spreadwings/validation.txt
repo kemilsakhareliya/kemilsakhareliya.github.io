@@ -1,0 +1,18 @@
+
+required pattern="[A-Z a-z.-]*"
+
+required pattern="\d*"
+
+required pattern="[A-Z a-z]*"
+
+
+6 or more characters 
+required pattern=".{6,}"
+
+
+10 charcters
+required pattern=".{10}"
+
+
+mobile number 10 digit start with 789
+required pattern="[789][0-9]{9}"

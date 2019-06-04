@@ -1,0 +1,1 @@
+(function($){var version=$().jquery;var versionName=version.replace(/\./g,'');window['jq'+ versionName]=jQuery.noConflict(true);})(jQuery);
